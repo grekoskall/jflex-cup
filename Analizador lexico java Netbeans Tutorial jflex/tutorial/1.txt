@@ -1,0 +1,4 @@
+if(victor==0)
+{
+angel="victor";
+}
